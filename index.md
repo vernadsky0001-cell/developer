@@ -19,6 +19,8 @@ If you want to use wallet core in your project follow these instructions:
   [Android](android-guide.md).
 - We have a [FAQ](faq.md) list may already answer some of your questions.
 
+<div id="projects-list">
+
 ## Projects using Wallet Core -- Add yours here too!
 
 - [Trust Wallet](https://trustwallet.com)
@@ -32,6 +34,8 @@ If you want to use wallet core in your project follow these instructions:
 - [xPortal](https://xportal.com/)
 - [Slingshot](https://slingshot.finance/)
 - [ECOIN Wallet](https://play.google.com/store/apps/details?id=org.ecoinwallet&pcampaignid=web_share)
+
+</div>
 
 ## Contributing
 
