@@ -1,7 +1,10 @@
-
+---
+layout: default
+title: Wallet Core Projects
+---
 # Wallet Core
 
-![](/media/wallet-core-banner.png)
+![](media/wallet-core-banner.png)
 
 ## Introduction
 
