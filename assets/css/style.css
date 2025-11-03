@@ -1,0 +1,18 @@
+/* Стрелочки ТОЛЬКО для списка проектов */
+#projects-list ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#projects-list li::before {
+    content: '►';
+    color: #0366d6;
+    margin-right: 8px;
+    font-size: 12px;
+}
+
+/* Подчёркивания ТОЛЬКО для ссылок в списке проектов */
+#projects-list a {
+    text-decoration: underline !important;
+    color: #0366d6 !important;
+}
