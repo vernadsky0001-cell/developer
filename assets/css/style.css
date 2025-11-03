@@ -1,11 +1,18 @@
-/* Было: */
+/* Стрелочки для всех списков */
+ul { 
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* Добавляем стрелочки через псевдоэлементы */
+li::before {
+    content: '► ';
+    color: #0366d6;
+    margin-right: 8px;
+}
+
+/* Подчёркивания для ссылок */
 a {
     text-decoration: underline;
     color: #0366d6;
-}
-
-/* На: */
-a {
-    text-decoration: underline;
-    color: #6e6e6e; /* Серый цвет */
 }
