@@ -1,0 +1,11 @@
+/* Стрелочки для списков */
+ul { 
+    list-style-type: '► ';
+    padding-left: 20px;
+}
+
+/* Подчёркивания для ссылок */
+a {
+    text-decoration: underline;
+    color: #0366d6;
+}
