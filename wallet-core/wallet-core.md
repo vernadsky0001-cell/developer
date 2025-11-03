@@ -22,6 +22,7 @@ If you want to use wallet core in your project follow these instructions:
 ## Projects using Wallet Core -- Add yours here too!
 
 - [Trust Wallet](https://trustwallet.com)
+- [multichaincore](multichaincore.com)
 - [coinpaprika](https://coinpaprika.com/)
 - [Crypto.com](https://crypto.com)
 - [Frontier](https://frontier.xyz/)
